@@ -10,7 +10,7 @@ name: Eugene Kim
 title: PhD Student 
 email: egkim0103@kaist.ac.kr
 # email_title: Email (Email title override)
-phone: 82 010-9629-9901
+phone: +82 10-9629-9901
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -49,7 +49,7 @@ darkmode: true
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Welcome!
+about_title: &nbsp;
 about_profile_image: images/김유진_프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -99,7 +99,7 @@ content:
       - layout: top-left
         title: KAIST
         sub_title: Ph.D in Management Engineering 
-        caption: March 2023 ~ Present
+        caption: March 2023 - Present
         quote: |
           Major in IT Management (Management Information Systems) <br>
           Advisor: Dr. Jinsoo Han
