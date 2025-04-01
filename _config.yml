@@ -112,6 +112,28 @@ content:
           With First Class Honor 
        # description: | # this will include new lines to allow paragraphs
        #  Description of qualification
+   - title: Fellowship
+    layout: list
+    content:
+      - layout: top-right
+        title: PhD Fellowship 
+        sub_title: School of Management Engineering, KAIST College of Business
+       # caption: 
+       #  quote: >
+       #  Quantitative Research Using Huge Clickstream Data of Korean Domestic Newspaper (Advisor: Daegon Cho)
+       # description: | # this will include new lines to allow paragraphs
+       #  Description of qualification
+      - layout: top-right
+        title: PhD Fellowship
+        sub_title: Ministry of Education of the Republic of Korea and the National Research Foundation of Korea
+      - layout: top-right
+        title: Merit Scholarship
+        sub_title: National Excellence Scholarship for Humanities, Korea Student Aid Foundation (KOSAF)
+        # caption: March 2017 - Feburary 2021
+        # quote: >
+        #  With First Class Honor 
+       # description: | # this will include new lines to allow paragraphs
+       #  Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
