@@ -100,14 +100,14 @@ content:
         title: KAIST
         sub_title: Ph.D in Management Engineering 
         caption: March 2023 ~ Current
-        quote: >
+        quote: |
           Major in IT Management (Management Information Systems)
           Advisor: Jinsoo Han
       - layout: top-left
         title: KAIST
         sub_title: M.S. in Management Engineering
         caption: March 2021 - Feburary 2023
-        quote: >
+        quote: |
           Major in IT Management (Management Information Systems)
           Advisor: Daegon Cho
        # description: | # this will include new lines to allow paragraphs
