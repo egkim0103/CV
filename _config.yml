@@ -49,7 +49,7 @@ darkmode: true
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Last updated on April 2th, 2025
+about_title: Last updated on April 1th, 2025
 about_profile_image: images/김유진_프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
