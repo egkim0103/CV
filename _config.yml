@@ -52,9 +52,9 @@ darkmode: true
 about_title: Last updated on May 6th, 2025
 about_profile_image: images/김유진_프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello. I am a Ph.D. candidate in IT Management (Management Information Systems) at the College of Business, Korea Advanced Institute of Science and Technology (KAIST). 
+  Hello. I am a Ph.D. candidate in IT Management (Management Information Systems) at the College of Business, Korea Advanced Institute of Science and Technology (KAIST). <br>
   My research explores how consumers interact with information using observational data to provide actionable insights for sustainable operation of online platforms and more diversity of public institutions. I am particularly interested in economic and behavioral mechanisms around political information such as  consumers’ willingness to pay for news media.
-
+  <br>
   Research Interests
     - Economics of Information Systems 
     - Behavioral IS 
@@ -155,9 +155,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+       Language: English, Korean (Native)
+       Technical Skill: Python (Pandas), Stata, R, BigQuery
+       Personal Interests: Movie, Literature, Rock Music
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
