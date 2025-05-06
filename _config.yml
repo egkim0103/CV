@@ -137,7 +137,7 @@ content:
     content:
       - layout: top-right
         title: KAIST Doctoral Fellowship 
-        sub_title: School of Management Engineering, KAIST College of Business
+        sub_title: KAIST College of Business
        # caption: 
        #  quote: >
        #  Quantitative Research Using Huge Clickstream Data of Korean Domestic Newspaper (Advisor: Daegon Cho)
