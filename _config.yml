@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eugene Kim
-title: PhD Student 
+title: PhD Candidate 
 email: egkim0103@kaist.ac.kr
 # email_title: Email (Email title override)
 phone: +82 10-9629-9901
@@ -54,6 +54,7 @@ about_profile_image: images/김유진_프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I am a Ph.D. candidate in IT Management (Management Information Systems) at the College of Business, Korea Advanced Institute of Science and Technology (KAIST). <br>
   My research explores how consumers interact with information using observational data to provide actionable insights for sustainable operation of online platforms and more diversity of public institutions. I am particularly interested in economic and behavioral mechanisms around political information such as  consumers’ willingness to pay for news media.
+  <br>
   <br>
   Research Interests
     - Economics of Information Systems 
@@ -155,9 +156,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-       Language: English, Korean (Native)
-       Technical Skill: Python (Pandas), Stata, R, BigQuery
-       Personal Interests: Movie, Literature, Rock Music
+       Language: English, Korean (Native) <br>
+       Technical Skill: Python (Pandas), Stata, R, BigQuery <br>
+       Personal Interests: Movie, Literature, Rock Music, Wiskey <br>
+       <br>
+       I believe that a better society is one that respects a diversity of perspectives. <br>
+       I also believe that those who openly share their research questions are outstanding scholars—and those who treat others to sushi are simply good people.
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
