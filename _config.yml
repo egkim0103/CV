@@ -104,14 +104,14 @@ content:
         caption: March 2023 - Present
         quote: |
           Major in IT Management (Management Information Systems) <br>
-          Advisor: Dr. Jinsoo Han
+          Advisor: Dr. Jinsoo Han (Currently at KAIST)
       - layout: top-left
         title: KAIST
         sub_title: M.S. in Management Engineering
         caption: March 2021 - February 2023
         quote: |
           Major in IT Management (Management Information Systems) <br>
-          Advisor: Dr. Daegon Cho
+          Advisor: Dr. Daegon Cho (Currently at Yonsei Univ.)
        # description: | # this will include new lines to allow paragraphs
        #  Description of qualification
       - layout: top-left
