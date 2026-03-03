@@ -132,10 +132,32 @@ content:
           Graduated with First Class Honor 
        # description: | # this will include new lines to allow paragraphs
        #  Description of qualification
-  - title: Fellowship
+  - title: Work-in-Progress
     layout: list
     content:
       - layout: top-right
+        title: Overnight Autocracy: Does Institutional Uncertainty Per Se Depress Economic Transactions?
+        sub_title: A Empirical Study about the effect of Martial Law Declaration in South Korea at 2024.12.03 on sales of small size enterprises (Using RD)
+       # caption: 
+       #  quote: >
+       #  Quantitative Research Using Huge Clickstream Data of Korean Domestic Newspaper (Advisor: Daegon Cho)
+       # description: | # this will include new lines to allow paragraphs
+       #  Description of qualification
+      - layout: top-right
+        title: Digital News Consumption with Ex-ante Registration Requirements 
+        sub_title: A Empirical Study about the effect of Ex-ante registration requirement on digital news consumption behaviors (Using DiD)
+      - layout: top-right
+        title: The Impact of Electoral Defeats on Content Consumption 
+        sub_title: A Empirical Study about the effect of election-related outcomes on broadcasting content consumption behaviors (Using DiD)
+        # caption: March 2017 - Feburary 2021
+        # quote: >
+        #  With First Class Honor 
+       # description: | # this will include new lines to allow paragraphs
+       #  Description of qualification
+  - title: Fellowship
+    layout: list
+    content:
+      - layout: top-left
         title: KAIST Doctoral Fellowship 
         sub_title: KAIST College of Business
        # caption: 
@@ -143,10 +165,10 @@ content:
        #  Quantitative Research Using Huge Clickstream Data of Korean Domestic Newspaper (Advisor: Daegon Cho)
        # description: | # this will include new lines to allow paragraphs
        #  Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: NRF Doctoral Research Fellowship
         sub_title: Ministry of Education of the Republic of Korea & National Research Foundation of Korea (NRF)
-      - layout: top-right
+      - layout: top-left
         title: Undergraduate Merit Scholarship
         sub_title: National Excellence Scholarship for Humanities, Korea Student Aid Foundation (KOSAF)
         # caption: March 2017 - Feburary 2021
