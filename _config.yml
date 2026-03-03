@@ -137,7 +137,7 @@ content:
     content:
       - layout: top-right
         title: Overnight Autocracy, Does Institutional Uncertainty Per Se Depress Economic Transactions?
-        caption: A Empirical Study about the effect of Martial Law Declaration in South Korea at 2024.12.03 on sales of small size enterprises (Using RD)
+        caption: A Empirical Study about the effect of Martial Law Declaration in South Korea at 2024.12.03 on sales of small size enterprises (Using RD) <br>
                  with Minjae Kim(Yale), Jin Soo Han(KAIST), Daegon Cho(Yonsei)
        # caption: 
        #  quote: >
@@ -146,11 +146,11 @@ content:
        #  Description of qualification
       - layout: top-right
         title: Digital News Consumption with Ex-ante Registration Requirements 
-        caption: A Empirical Study about the effect of Ex-ante registration requirement on digital news consumption behaviors (Using DiD)
+        caption: A Empirical Study about the effect of Ex-ante registration requirement on digital news consumption behaviors (Using DiD) <br>
                  with Jin Soo Han(KAIST), Daegon Cho(Yonsei)
       - layout: top-right
         title: The Impact of Electoral Defeats on Content Consumption 
-        caption: A Empirical Study about the effect of election-related outcomes on broadcasting content consumption behaviors (Using DiD)
+        caption: A Empirical Study about the effect of election-related outcomes on broadcasting content consumption behaviors (Using DiD) <br>
                  with Young Chan Hwang(ETRI)
         # caption: March 2017 - Feburary 2021
         # quote: >
