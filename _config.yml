@@ -52,17 +52,16 @@ darkmode: true
 about_title: Last updated on March 3th, 2026
 about_profile_image: images/김유진_프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello. I am a Ph.D. candidate in IT Management (Management Information Systems) at the College of Business, Korea Advanced Institute of Science and Technology (KAIST). Before here, I have studied journalism and media industry. <br>
-  My research explores how consumers interact with information using observational data to provide actionable insights for sustainable operation of online platforms and more diversity of public institutions. I am particularly interested in economic and behavioral mechanisms around political information such as consumers’ willingness to pay for news media.
+  Hello. I am a Ph.D. candidate in IT Management (Management Information Systems) at the College of Business, Korea Advanced Institute of Science and Technology (KAIST). <br>
+  My research explores how consumers interact with various information using observational data. I am particularly interested in economic and behavioral changes around political information. <br>
   <br>
   <br>
   Research Interests
     - Economics of Information Systems 
     - Business Analytics 
     - Digital News Consumption 
-    - Media and Entertainment
-    - Various Type of Polarization
-    - Applications of AI 
+    - Content Consumption
+    - Various Effect of Political Affiliation
       
 # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -137,8 +136,8 @@ content:
     content:
       - layout: top-right
         title: Overnight Autocracy, Does Institutional Uncertainty Per Se Depress Economic Transactions?
-        caption: A Empirical Study about the effect of Martial Law Declaration in South Korea at 2024.12.03 on sales of small size enterprises (Using RD) <br>
-                 <a with href="https://som.yale.edu/faculty-research/faculty-directory/minjae-kim" target="_blank">Minjae Kim (Yale)</a>, <em>Jin Soo Han (KAIST)<em>, <em>Daegon Cho (Yonsei)<em>
+        caption: A Empirical Study about the effect of Martial Law Declaration in South Korea at 2024.12.03 on sales of small businesses <br>
+                 <em>with<em> <a with href="https://som.yale.edu/faculty-research/faculty-directory/minjae-kim" target="_blank">Minjae Kim (Yale)</a>, <em>Jin Soo Han (KAIST)<em>, <em>Daegon Cho (Yonsei)<em>
        # caption: 
        #  quote: >
        #  Quantitative Research Using Huge Clickstream Data of Korean Domestic Newspaper (Advisor: Daegon Cho)
@@ -146,12 +145,12 @@ content:
        #  Description of qualification
       - layout: top-right
         title: Digital News Consumption with Ex-ante Registration Requirements 
-        caption: A Empirical Study about the effect of Ex-ante registration requirement on digital news consumption behaviors (Using DiD) <br>
-                 with Jin Soo Han(KAIST), Daegon Cho(Yonsei)
+        caption: A Empirical Study about the effect of Ex-ante registration requirement on digital news consumption behaviors <br>
+                 <em>with Jin Soo Han(KAIST), Daegon Cho(Yonsei)<em>
       - layout: top-right
         title: The Impact of Electoral Defeats on Content Consumption 
-        caption: A Empirical Study about the effect of election-related outcomes on broadcasting content consumption behaviors (Using DiD) <br>
-                 with Young Chan Hwang(ETRI)
+        caption: A Empirical Study about the effect of election-related outcomes on broadcasting content consumption behaviors <br>
+                 <em>with Young Chan Hwang(ETRI)<em>
         # caption: March 2017 - Feburary 2021
         # quote: >
         #  With First Class Honor 
@@ -190,7 +189,7 @@ content:
        **Personal Interests**: Movie, Literature, Rock Music, Wiskey <br>
        <br>
        I believe that a better society is one that respects a diversity of opinions. <br>
-       I also believe that those who openly share their research questions are outstanding scholars—and those who treat others to sushi are simply good people.
+#      I also believe that those who openly share their research questions are outstanding scholars—and those who treat others to sushi are simply good people.
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
